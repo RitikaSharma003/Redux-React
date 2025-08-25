@@ -12,6 +12,7 @@
   "type": "commonjs",
   "dependencies": {
     "redux": "^5.0.1",
-    "redux-logger": "^3.0.6"
+    "redux-logger": "^3.0.6",
+    "vite": "^7.1.3"
   }
 }
